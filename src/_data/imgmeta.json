@@ -487,5 +487,85 @@
    1200,
    1600
   ]
+ },
+ "san-juan-sunset-cove.webp": {
+  "w": 1800,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ]
+ },
+ "supernova-anchored-san-juans.webp": {
+  "w": 1800,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ]
+ },
+ "hollow-cedar-hike.webp": {
+  "w": 1350,
+  "h": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1350
+  ]
+ },
+ "moonlit-anchorage.webp": {
+  "w": 1800,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ]
+ },
+ "supernova-anchored-profile.webp": {
+  "w": 1340,
+  "h": 623,
+  "widths": [
+   480,
+   800,
+   1200,
+   1340
+  ]
+ },
+ "upper-deck-fire-table-sunset.webp": {
+  "w": 1800,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ]
+ },
+ "supernova-anchored-gray-day.webp": {
+  "w": 1800,
+  "h": 1253,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ]
+ },
+ "flybridge-solar-aerial-repainted.webp": {
+  "w": 1448,
+  "h": 1086,
+  "widths": [
+   480,
+   800,
+   1200,
+   1448
+  ]
  }
 }
