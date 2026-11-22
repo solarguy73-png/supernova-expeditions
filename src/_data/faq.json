@@ -8,7 +8,8 @@
   { "group": "What's included & what to bring", "items": [
     { "q": "What's included on scheduled expeditions?", "a": "Captain, mate and private chef, chef prepared meals and beverages, 4 paddleboards and 2 kayaks, plus fuel, cleaning and damage deposit coverage. Scuba expeditions also include the landing craft and a certified divemaster." },
     { "q": "Is food included on a private charter?", "a": "The base private charter is self catered. You can add a private chef with meals, house beer, wine and standard spirits starting at $800 per night." },
-    { "q": "What should I pack?", "a": "Warm layers and rain gear, soft sided bags and any gear for your activity, such as dive gear or your mountain bike. Trips into Canada need valid travel documents for every guest." }
+    { "q": "Do I need to bring my own bike for a mountain bike expedition?", "a": "No. You can bring your own mountain bike or rent one of ours. We have e-bikes and regular mountain bikes available, so you can show up and your bike will be waiting." },
+    { "q": "What should I pack?", "a": "Warm layers and rain gear, soft sided bags and any gear for your activity, such as dive gear or your mountain bike if you're bringing your own. Trips into Canada need valid travel documents for every guest." }
   ]},
   { "group": "On the water", "items": [
     { "q": "How many guests can come?", "a": "Crewed trips are limited to 6 paying guests under U.S. Coast Guard rules. Dry boat charters can sleep 8 in the staterooms plus 4 more on the top deck." },
@@ -17,7 +18,7 @@
     { "q": "What happens if the weather turns?", "a": "Captain Paul plans each day around weather, tides and conditions. Routes and stops can change, and safety always comes first." }
   ]},
   { "group": "Departure & pickup", "items": [
-    { "q": "Where do trips start?", "a": "All trips start and end in Anacortes, Washington. Alternative pickup and drop off locations are available for an added fuel charge." },
+    { "q": "Where do trips start?", "a": "All trips start and end at Skyline Marina in Anacortes, Washington, from the Commercial Dock, Slip A12. Parking is available at the marina and in the long term gravel lot across the street. Alternative pickup and drop off locations are available for an added fuel charge." },
     { "q": "Where can we go?", "a": "The San Juan Islands, British Columbia's Gulf Islands and Vancouver Island, and on longer private expeditions as far as Desolation Sound and beyond." }
   ]}
 ]

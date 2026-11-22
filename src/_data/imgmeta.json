@@ -567,5 +567,65 @@
    1200,
    1448
   ]
+ },
+ "bike-rack-dock-crane.webp": {
+  "w": 1350,
+  "h": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1350
+  ]
+ },
+ "bikes-loaded-landing-craft.webp": {
+  "w": 1350,
+  "h": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1350
+  ]
+ },
+ "girl-holding-salmon.webp": {
+  "w": 1350,
+  "h": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1350
+  ]
+ },
+ "kids-shrimp-pot.webp": {
+  "w": 1350,
+  "h": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1350
+  ]
+ },
+ "beach-campfire-dusk.webp": {
+  "w": 1800,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ]
+ },
+ "girls-madrona-beach.webp": {
+  "w": 1800,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ]
  }
 }

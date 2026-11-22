@@ -12,6 +12,10 @@
     ["landing-craft-granite-slab.webp", "Kids riding the landing craft bow toward a huge granite slab"],
     ["family-waterfall-landing-craft.webp", "Family on the landing craft bow ramp in front of a waterfall"],
     ["kids-crab-pot.webp", "Kids grinning over a crab pot full of Dungeness crab at sunset"],
+    ["kids-shrimp-pot.webp", "Kids showing off spot prawns from a freshly pulled shrimp pot on the landing craft"],
+    ["girl-holding-salmon.webp", "Young angler holding up a freshly caught salmon"],
+    ["girls-madrona-beach.webp", "Two girls by a madrona tree above a sandy island beach with the tender ashore"],
+    ["beach-campfire-dusk.webp", "Guests gathered around a beach campfire at dusk"],
     ["beach-campfire-sucia.webp", "Families around a beach campfire at sunset on Sucia Island"],
     ["lakeside-trail-hike.webp", "Hikers climbing a rocky trail above a blue island lake"],
     ["paddleboard-pink-reflection.webp", "Paddleboarder on mirror calm water reflecting pink evening clouds"],
@@ -26,6 +30,8 @@
     ["ebikes-deck-underway.webp", "E-mountain bikes racked on the upper deck as Supernova cruises the islands"],
     ["crane-loading-ebikes.webp", "Crew lowering e-bikes from the deck crane onto the landing craft"],
     ["riders-relaxing-deck.webp", "Riders relaxing on the upper deck with their bikes racked behind"],
+    ["bikes-loaded-landing-craft.webp", "Mountain bikes loaded in the landing craft alongside Supernova"],
+    ["bike-rack-dock-crane.webp", "Bike rack on the dock ready to be craned aboard Supernova at dusk"],
     ["humpback-whale-tail.webp", "Humpback whale tail lifting out of the water"]
   ]},
   { "id": "diving", "title": "Diving", "link": "/scuba-diving-expeditions/", "linkText": "Scuba diving expeditions", "photos": [
